@@ -21,7 +21,6 @@ version 2.3.0.
 
 How the world plays:
 - The WBO (1988) and other later bodies and TV networks appear in the year they were founded.
-- After 1985 the game also creates new fighters of its own alongside the real debutants; those are not real people.
 
 ## Install
 
