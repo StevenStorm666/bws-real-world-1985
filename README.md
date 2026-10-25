@@ -21,8 +21,6 @@ version 2.3.0.
 
 How the world plays:
 - The WBO (1988) and other later bodies and TV networks appear in the year they were founded.
-- Fighters from countries that did not allow pro boxing in 1985 (the Soviet Union, Cuba, East Germany and others) can
-  only turn pro once their country allows it.
 - After 1985 the game also creates new fighters of its own alongside the real debutants; those are not real people.
 
 ## Install
