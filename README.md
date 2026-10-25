@@ -19,8 +19,13 @@ version 2.3.0.
   working then (Eddie Futch, Emanuel Steward, Angelo Dundee, Cus D'Amato, Kevin Rooney, …), **172 gyms**,
   **378 venues**, **107 judges and referees**, and the sanctioning bodies, TV networks and magazines.
 
-How the world plays:
-- The WBO (1988) and other later bodies and TV networks appear in the year they were founded.
+From the game's default world:
+- **Sponsors and anti-doping agencies:** the game's own 99 sponsors and 5 agencies, unchanged, so some are modern
+  (betting sites, streaming, agencies founded after 1985).
+- **Sanctioning bodies:** the game's set of 23, with their real names, founding years and 1985 descriptions. Bodies
+  founded later, such as the WBO (1988), only appear in the game from their founding year.
+- **TV networks and magazines:** real names and histories; their audience and money figures are the game's.
+- **Managers:** the database has none; the game creates them.
 
 ## Install
 
