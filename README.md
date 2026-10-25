@@ -28,7 +28,7 @@ How the world plays:
 ## Install
 
 1. Close the game.
-2. Download `database/Real_World_1985.bwdb.json` from this repository.
+2. Download `Real_World_1985.bwdb.json` from the [latest release](https://github.com/StevenStorm666/bws-real-world-1985/releases/latest).
 3. Put it in the game's database folder, `Documents\Boxing World Simulator\Databases\` (the game creates the folder on
    its first start). If you have an older version of the file, replace it.
 4. Start the game, start a new career or Simulation Mode and pick **Real World 1985** under "Choose your world".
