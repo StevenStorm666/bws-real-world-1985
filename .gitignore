@@ -1,0 +1,8 @@
+# Only the public files are tracked; everything else (build scripts, research, BoxRec data, tools) stays local.
+/*
+!/.gitignore
+!/.gitattributes
+!/README.md
+!/TODO.md
+!/LICENSE
+!/database/
