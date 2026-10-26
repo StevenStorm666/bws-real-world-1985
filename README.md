@@ -1,8 +1,8 @@
 # Real World 1985 — a Boxing World Simulator database
 
-A world for Boxing World Simulator that starts on 1 January 1985 with real people only: the boxers, champions,
-promoters, trainers, gyms and officials of the time, as far as open sources let us find them. Tested with game
-version 2.3.0.
+A world for Boxing World Simulator that starts on 1 January 1985 with real people (apart from 36 invented gym
+coaches, listed below): the boxers, champions, promoters, trainers, gyms and officials of the time, as far as open
+sources let us find them. Tested with game version 2.3.0.
 
 ## What is in it
 
@@ -15,9 +15,44 @@ version 2.3.0.
   and many more, including 122 women.
 - **209 amateurs** of 1985, from the 1984 Olympic teams and the European and world championships, who can turn pro
   during the game.
-- **65 promoters** that existed in 1985 (Top Rank, Don King Productions, Main Events, …), **387 trainers** who were
+- **65 promoters** that existed in 1985 (Top Rank, Don King Productions, Main Events, …), **414 trainers** who were
   working then (Eddie Futch, Emanuel Steward, Angelo Dundee, Cus D'Amato, Kevin Rooney, …), **172 gyms**,
   **378 venues**, **107 judges and referees**, and the sanctioning bodies, TV networks and magazines.
+
+Invented: **36 coaches** for the 26 gyms where research found no real coach of the time, so no gym starts empty
+(club gyms one coach, regional gyms two, famous gyms three). Their names are made up from first names and surnames
+of boxers of the same country:
+
+<details><summary>The invented coaches</summary>
+
+- Sor Vorapin Gym: Kwanthai Chorsuananan, Tepparith Chorsuananan, Siangchai Sitprakan
+- Elorde Sports Center: Nick Alamag, Fernando Pascua, Orestes Tito
+- ALA Gym: Arsenio Afable, Ernesto Bahian, William Gloria
+- Gramercy Gym: Freddie Arms, Roger Williamson
+- East LA Community Youth Center: S.T. Feliciano
+- Waco Boxing Club: James Ferguson
+- West Ham Boys ABC: Shane Burton, Joe Till
+- Dale Youth ABC: Trevor Lynch
+- Small Heath ABC: Malcolm Shinkwin
+- Colcot ABC: Kelvin Morris
+- St Francis BC: Sean McBride
+- Glen BC: Barry Duddy
+- Gimnasio Julián Magdaleno: Cristian Bueno
+- Gimnasio Municipal Santa Rosa: Daniel Márquez
+- Kadoebi Hoseki Gym: Joichiro Minami, Tatsuro Sato
+- Club Atlético Huracán (boxeo): Lucas Lujan
+- Gimnasio Hugo Barraza: Carlos Pastrana
+- Sempre Avanti! Pugilato: Patrizio Ros
+- Boxing Club Nazairien: Farid Voltine
+- Brovary Olympic Reserve Boxing School: Wladimir Uzelkov, Andriy Glazkov
+- Abalti Barracks Boxing Club: Bash Ehikhamenor
+- Djurgårdens IF Boxningsförening: Badou Eklund
+- Hammarby IF Boxning: Erik Eklund
+- Flandria Boxing Club Oostende: Filiep Bufi
+- BK Pula: Novak Grubesic
+- La Tête Haute de Muhammad Ali: Mwilambwe Maeleke
+
+</details>
 
 From the game's default world:
 - **Sponsors and anti-doping agencies:** the game's own 99 sponsors and 5 agencies, unchanged, so some are modern
