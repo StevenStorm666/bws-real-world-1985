@@ -6,7 +6,7 @@ sources let us find them. Tested with game version 2.3.0.
 
 ## What is in it
 
-- **1,592 pros** from 72 nations as they stood on 1 January 1985: record, age, weight class, nationality, promoter and
+- **1,582 pros** from 69 nations as they stood on 1 January 1985: record, age, weight class, nationality, promoter and
   trainer. Larry Holmes, Marvin Hagler, Thomas Hearns, Julio César Chávez, Azumah Nelson, Khaosai Galaxy and the rest.
 - **The champions of the day:** the WBC, WBA and IBF title holders of 1 January 1985, plus European (EBU), North American
   (NABF), Oriental and Pacific (OPBF), British and other national champions.
