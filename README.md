@@ -2,7 +2,7 @@
 
 A world for Boxing World Simulator that starts on 1 January 1985 with real people (apart from 36 invented gym
 coaches, listed below): the boxers, champions, promoters, trainers, gyms and officials of the time, as far as open
-sources let us find them. Tested with game version 2.3.0.
+sources let us find them. Tested with game version 2.3.1.
 
 ## What is in it
 
